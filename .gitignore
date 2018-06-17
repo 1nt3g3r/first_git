@@ -1,2 +1,5 @@
 #Test file
 tests.txt
+
+#IDE files
+IDE/*
